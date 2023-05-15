@@ -8,7 +8,6 @@ I'm a Student majored in Data Science at University of Information Technology, V
 ### 💌 &nbsp;Contact Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-khanhtq.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tann-do/"><img src="https://img.shields.io/badge/-Tan%20Nhat%20Do-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:donhattan1012dev@gmail.com"><img src="https://img.shields.io/badge/-donhattan1012dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/donhattann/"><img src="https://img.shields.io/badge/-Tann-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
